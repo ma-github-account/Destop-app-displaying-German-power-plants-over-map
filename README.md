@@ -1,4 +1,4 @@
-The application displays power plants over the map of Germany.
+This desktop application displays power plants over the map of Germany.
 User can limit the display to chosen types of power plants.
 
 Prerequisites:
